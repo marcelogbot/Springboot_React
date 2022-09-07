@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JavaSpringVscodeExampleApplication<java-spring-vscode-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.mgbteste.javaspringvscodeexample.JavaSpringVscodeExampleApplication",
+            "projectName": "java-spring-vscode-example",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
